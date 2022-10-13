@@ -23,7 +23,7 @@ Not in game
 ## Feature
 - Take a random seed from seed.txt an create world
 - Log file
-Can use to practice mapless, overworld or something
+- Can use to practice mapless, overworld or something
 ## How to use
 Download [Autohotkey](autohotkey.com) and install
 
