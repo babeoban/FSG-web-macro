@@ -19,3 +19,23 @@ Minecraft have to be in title screen
 Not in game
 ## Bugs and Fix
 [Discord](https://discord.gg/4sXKY8RJqd)
+# Seedrand
+## Feature
+- Take a random seed from seed.txt an create world
+- Log file
+Can use to practice mapless, overworld or something
+## How to use
+Download [Autohotkey](autohotkey.com) and install
+
+Drag macro to the empty folder
+
+Run the macro
+
+Click U to create world with random seed in seed.txt
+## Warn
+
+Minecraft have to be in title screen
+
+Not in game
+## Bugs and Fix
+[Discord](https://discord.gg/4sXKY8RJqd)
