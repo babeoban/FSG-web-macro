@@ -1,4 +1,6 @@
 # FSG-web-macro
+## ?
+Tutorial and Demo (vietnamese) https://youtu.be/Znq4loCUY_k
 ## Feature
 - Auto split the seed and token and create fsg world 
 - FSG site https://seedbankcustom.andynovo.repl.co
